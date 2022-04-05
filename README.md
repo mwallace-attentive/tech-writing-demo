@@ -1,2 +1,3 @@
 # tech-writing-demo
-Demo/test repository for tech writing team
+
+This is repository is for demonstrating and testing GitHub functionality.
