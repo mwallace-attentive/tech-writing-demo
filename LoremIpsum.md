@@ -17,3 +17,4 @@ This is a sub-section. How neat.
 ### Here's another sub-section
 What should we write here? We can write whatever we want! What happens if I try to publish to main? Let's find out....
 Hmm...it shouldn't have let me do that. Let's try again.
+Ah, I know what happened. I'm the only user in this repository, and I own the repository, so I can just push to main whenever I want. So that shouldn't be an issue when I'm working in a shared repo. Let's create a  new branch, then!
